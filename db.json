@@ -1,0 +1,12 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Wat is er gebeurd?"
+        },
+        {
+            "id": 2,
+            "title": "Zomaar een titel"
+        }
+    ]
+}
